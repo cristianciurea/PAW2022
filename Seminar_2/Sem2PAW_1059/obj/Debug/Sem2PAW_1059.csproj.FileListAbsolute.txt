@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\bin\Debug\Sem2PAW_1059.exe.config
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\bin\Debug\Sem2PAW_1059.exe
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\bin\Debug\Sem2PAW_1059.pdb
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\obj\Debug\Sem2PAW_1059.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\obj\Debug\Sem2PAW_1059.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\obj\Debug\Sem2PAW_1059.exe
+C:\Users\Administrator\Desktop\SDD 2022\Sem2PAW_1059\obj\Debug\Sem2PAW_1059.pdb
