@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Curs valutar>
+  <Data curs: />
+  <EUR: valuta="EUR" />
+  <USD: valuta="USD" />
+  <GBP: valuta="GBP" />
+  <XAU: valuta="XAU" />
+</Curs valutar>
