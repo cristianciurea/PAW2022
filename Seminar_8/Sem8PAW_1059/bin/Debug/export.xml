@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Produse>
+  <100|cafea|6,5|2>
+    <scump />
+  </100|cafea|6,5|2>
+  <400|miere|15,5|2>
+    <scump />
+  </400|miere|15,5|2>
+  <123|paine|4,5|3>
+    <ieftin />
+  </123|paine|4,5|3>
+</Produse>
