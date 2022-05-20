@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\bin\Debug\WindowsFormsControlLibrary1059.dll
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\bin\Debug\WindowsFormsControlLibrary1059.pdb
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\obj\Debug\WindowsFormsControlLibrary1059.UserControl1.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\obj\Debug\WindowsFormsControlLibrary1059.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\obj\Debug\WindowsFormsControlLibrary1059.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\obj\Debug\WindowsFormsControlLibrary1059.dll
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\WindowsFormsControlLibrary1059\obj\Debug\WindowsFormsControlLibrary1059.pdb

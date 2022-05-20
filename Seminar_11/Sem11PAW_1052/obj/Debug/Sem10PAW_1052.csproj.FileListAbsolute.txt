@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\bin\Debug\Sem10PAW_1052.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\bin\Debug\Sem10PAW_1052.exe
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\bin\Debug\Sem10PAW_1052.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.exe
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Sem10PAW_1052\obj\Debug\Sem10PAW_1052.Form2.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\bin\Debug\Sem10PAW_1052.exe.config
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\bin\Debug\Sem10PAW_1052.exe
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\bin\Debug\Sem10PAW_1052.pdb
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.Form1.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.Form2.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.exe
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.pdb
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.Form3.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.Form4.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.UserControl1.resources
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\bin\Debug\WindowsFormsControlLibrary1052.dll
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\bin\Debug\WindowsFormsControlLibrary1052.pdb
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2022\Seminar_11\Sem11PAW_1052\obj\Debug\Sem10PAW_1052.csproj.CopyComplete

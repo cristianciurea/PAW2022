@@ -1,0 +1,120 @@
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\cristi\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\cristi\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+H:\PAW\2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\PAW\2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\PAW\2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\Curs 8\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Aplicatii seminar PAW\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\Aplicatii seminar PAW\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Aplicatii seminar PAW\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\2015-2016\Curs_8_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Curs 11 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\Curs 11 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\Curs 11 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 10 PAW\Curs_10_BazeDate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

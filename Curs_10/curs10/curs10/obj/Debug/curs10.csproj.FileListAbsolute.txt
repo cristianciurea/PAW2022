@@ -1,0 +1,67 @@
+C:\Users\Cristian\Desktop\curs10\curs10\bin\Debug\curs10.exe.config
+C:\Users\Cristian\Desktop\curs10\curs10\bin\Debug\curs10.exe
+C:\Users\Cristian\Desktop\curs10\curs10\bin\Debug\curs10.pdb
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.Form1.resources
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.exe
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.pdb
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.Form2.resources
+C:\Users\Cristian\Desktop\curs10\curs10\obj\Debug\curs10.Form3.resources
+C:\Users\Cristian\Desktop\curs10\curs10\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.exe.config
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.pdb
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.pdb
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form1.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form2.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form3.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.exe.config
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\bin\Debug\curs10.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs10\curs10\obj\Debug\curs10.pdb
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\curs10.exe.config
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\curs10.exe
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\curs10.pdb
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.Form1.resources
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.Form2.resources
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.Form3.resources
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.exe
+C:\Users\Administrator\Desktop\curs10\curs10\obj\Debug\curs10.pdb
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\x86\sqlite3.dll
+C:\Users\Administrator\Desktop\curs10\curs10\bin\Debug\x64\sqlite3.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\bin\Debug\x86\sqlite3.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\bin\Debug\x64\sqlite3.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\bin\Debug\curs10.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\bin\Debug\curs10.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\bin\Debug\curs10.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_10\curs10\curs10\obj\Debug\curs10.pdb
