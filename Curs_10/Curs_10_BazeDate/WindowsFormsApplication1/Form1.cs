@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            Provider = "Data Source=web.ase.ro,60231;Initial Catalog=WebccDB;Persist Security Info=True;User ID=cristian.ciurea;Password=MKI(*&ujn";
+            Provider = "Data Source=web.ase.ro,60231;Initial Catalog=WebccDB;Persist Security Info=True;User ID=*****;Password=*****";
             //Provider = "Provider = Microsoft.ACE.OLEDB.12.0; Data Source = student.accdb";
         }
 
